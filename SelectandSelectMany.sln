@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectandSelectMany", "SelectandSelectMany\SelectandSelectMany.csproj", "{EBC20402-128B-4FB7-AF97-6AEC1C77E775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC20402-128B-4FB7-AF97-6AEC1C77E775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC20402-128B-4FB7-AF97-6AEC1C77E775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC20402-128B-4FB7-AF97-6AEC1C77E775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC20402-128B-4FB7-AF97-6AEC1C77E775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
